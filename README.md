@@ -1,22 +1,29 @@
-1. Collection Of Personally Identifiable Information
-Whenever a User visits Etisalat Website, the server used by Etisalat Web Host will make a record of User IP Address, the date and time of User visit, the type of Internet Browser User uses and the URL of any web site which referred User to Etisalat Website. Unless otherwise stated Cookies used (if any) in any part of Etisalat web site will not be deployed for collecting personally identifiable information. As General information, Cookies are small computer files that can be stored in web surfers' computers for the purposes of obtaining configuration information and analyzing web surfers' viewing habits. User may refuse to accept Cookies (by modifying the relevant Internet options or browsing preferences of User computer system). Therefore, User may not be able to utilize or activate certain available functions in Etisalat Website.
 
-2. Types Of Personally Identifiable Information Collected
-At times, Customer may be required to give her/his personally identifiable information including, but not limited to, Customer name, gender, age,Identification number (national ID or passport etc), telephone number, fax number, home address, email address, credit card information, bank account number, education level, occupation, household income, interests and activities etc. Refusal to provide such information may deny Customer's access to certain parts of Etisalat web site, or may render Etisalat unable to pointer any application or request Customer is making, or may otherwise defeat the objectives of the visit. If Customer is under the age of 21, consent from a parent or guardian is required. Customer undertakes to provide legitimate and valid information; otherwise this may result in canceling the mobile service.
+<h1>Privacy Policy</h1>
 
-3. Use of Apple Pay
-Our application offers Apple Pay as a payment method to provide a fast, secure, and private way for you to make payments. When you use Apple Pay within our app, we do not receive or store your actual credit or debit card numbers. All payment information is handled securely by Apple in accordance with their privacy and security policies.
+<h2>1. Collection Of Personally Identifiable Information</h2>
+<p>Whenever a User visits Etisalat Website, the server used by Etisalat Web Host will make a record of User IP Address, the date and time of User visit, the type of Internet Browser User uses, and the URL of any website which referred User to Etisalat Website. Unless otherwise stated, Cookies used (if any) in any part of Etisalat website will not be deployed for collecting personally identifiable information.</p>
+<p>As general information, Cookies are small computer files that can be stored on users’ computers for obtaining configuration information and analyzing viewing habits. Users may refuse to accept Cookies by modifying relevant Internet options or browsing preferences. Therefore, some functions of Etisalat Website may not be available or fully functional.</p>
 
-4. Data Collected
-We may receive limited information from Apple Pay related to your transaction — such as a confirmation that the payment was successful, the amount paid, and a transaction identifier. This information is used only for:
-• Processing your order or service;
-• Providing customer support if needed;
-• Complying with legal or accounting obligations.
+<h2>2. Types Of Personally Identifiable Information Collected</h2>
+<p>At times, customers may be required to provide personally identifiable information including, but not limited to, name, gender, age, identification number (national ID or passport), telephone number, fax number, home address, email address, credit card information, bank account number, education level, occupation, household income, interests, and activities. Refusal to provide such information may deny access to certain parts of Etisalat website, or may prevent Etisalat from processing requests.</p>
+<p>If a customer is under the age of 21, consent from a parent or guardian is required. Customers must provide legitimate and valid information; otherwise, this may result in canceling the mobile service.</p>
 
-We do not collect or store your Apple Pay account details, card numbers, or authentication data.
+<h2>3. Use of Apple Pay</h2>
+<p>Our application offers Apple Pay as a payment method to provide a fast, secure, and private way to make payments. When using Apple Pay within our app, we do not receive or store actual credit or debit card numbers. All payment information is handled securely by Apple in accordance with their privacy and security policies.</p>
 
-Third-Party Disclosure
-Apple Pay transactions are processed by Apple and your payment card provider.
+<h2>4. Data Collected</h2>
+<p>We may receive limited information from Apple Pay related to your transaction — such as confirmation that the payment was successful, the amount paid, and a transaction identifier. This information is used only for:</p>
+<ul>
+  <li>Processing your order or service</li>
+  <li>Providing customer support if needed</li>
+  <li>Complying with legal or accounting obligations</li>
+</ul>
+<p>We do not collect or store Apple Pay account details, card numbers, or authentication data.</p>
+<p><strong>Third-Party Disclosure:</strong> Apple Pay transactions are processed by Apple and your payment card provider.</p>
 
-5. Security
-We follow industry best practices and implement reasonable security measures to ensure your personal and transaction information is protected
+<h2>5. Security</h2>
+<p>We follow industry best practices and implement reasonable security measures to ensure your personal and transaction information is protected.</p>
+
+</body>
+</html>
